@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 
+  credit_date: 
+  start_date: 
+  end_date: 2024-01-03 16:06:46
+
+two:
+  amount: 
+  credit_date: 
+  start_date: 
+  end_date: 2024-01-03 16:06:46
